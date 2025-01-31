@@ -1,5 +1,5 @@
 {
-  "homepage": "https://yourusername.github.io/time-tracker-visualization",
+  "homepage": "https://0xapriori.github.io/time-tracker-visualization",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
